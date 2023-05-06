@@ -1,0 +1,188 @@
+{
+    "homes": [
+    {
+      "id": 1,
+      "title": "Beautiful Home with a View",
+      "location": "Limuru",
+      "category": "sale",
+      "bedrooms": 4,
+      "bathrooms": 2,
+      "livingroom": true,
+      "images": [
+        "https://i.pinimg.com/originals/1a/08/61/1a086149d16bd2efddc89c53acb6bd78.jpg",
+        "https://st.hzcdn.com/simgs/pictures/living-rooms/california-dreaming-westmade-homes-img~49d1e3d00eb25369_14-6752-1-b83fde5.jpg",
+         "https://hips.hearstapps.com/hmg-prod/images/edc030122davis-005-1644012258.jpeg",
+        "https://thumbs.dreamstime.com/b/hotel-room-25969958.jpg"
+      ]
+    },
+    {
+      "id": 2,
+      "title": "Modern Loft with City Views",
+      "location": "Kilimani",
+      "category": "sale",
+      "bedrooms": 2,
+      "bathrooms": 1,
+      "livingroom": true,
+      "images": [
+        "https://cdn.home-designing.com/wp-content/uploads/2013/05/modern-city-loft-6.jpeg",
+        "https://i.pinimg.com/originals/c8/df/0a/c8df0a82d0c5153b898171a01982c04b.jpg",
+        "https://cdn.decoist.com/wp-content/uploads/2018/08/White-mixed-with-gray-is-a-popular-color-combination-in-the-small-contemporary-bathroom.jpg",
+        "https://i.pinimg.com/736x/18/60/8d/18608d5ace81206bf34452e4422e9db6.jpg"
+      ]
+    },
+
+{
+  "id": 3,
+  "title": "Cozy Cottage House by the Lake",
+  "location": "Naivasha",
+  "category": "rent",
+  "bedrooms": 2,
+  "bathrooms": 1,
+  "livingroom": true,
+  "images": [
+    "https://i.pinimg.com/originals/51/36/07/513607bb420670667b18900ae91597a9.jpg",
+    "https://www.architectureartdesigns.com/wp-content/uploads/2014/10/16-Homely-Rustic-Bathroom-Ideas-To-Warm-You-Up-This-Winter-0.jpg",
+    "https://i.pinimg.com/originals/39/ef/63/39ef63fc099ec7945176518e7936d1a8.jpg",
+    "https://houseandhome.com/wp-content/uploads/2022/05/2021-1028-HHM-51_HH_JanFeb22_25.jpg"
+   
+  ]
+},
+{
+  "id": 4,
+  "title": "Luxury Villa with Private Pool",
+  "location": "Diani",
+  "category": "sale",
+  "bedrooms": 5,
+  "bathrooms": 4,
+  "livingroom": true,
+  "images": [
+    "https://i.pinimg.com/originals/5b/5a/6d/5b5a6dc396d66b4b021d6ab057f1fe22.jpg",
+    "https://i.pinimg.com/736x/cf/f3/d5/cff3d5eba0efd9b18a0fbb35e2960292.jpg",
+    "https://i.pinimg.com/originals/46/1e/c8/461ec8af9c9dc415a58c45d3c351febd.jpg",
+    "https://i.pinimg.com/564x/aa/37/f5/aa37f548bc36444e1fe3293a2a3d7183.jpg"
+
+  ]
+},
+{
+  "id": 5,
+  "title": "Luxury Penthouse with Rooftop Terrace",
+  "location": "Westlands",
+  "category": "rent",
+  "bedrooms": 3,
+  "bathrooms": 1,
+  "livingroom": true,
+  "images": [
+    "https://i.pinimg.com/564x/3e/9d/7d/3e9d7d2bcd9f0c263fa83b1c32c26600.jpg",
+    "https://i.pinimg.com/originals/f0/99/fe/f099fecca0e8943f2ad26f6328cd8afa.jpg",
+    "https://i.pinimg.com/736x/3a/92/b6/3a92b6c696a17a5bacad32d788f43ac9.jpg",
+    "https://i.pinimg.com/736x/b5/23/10/b523106839ed3fe8fa6827e8ac742b6a.jpg"
+   
+  ]
+},
+{
+  "id": 6,
+  "title": "Beachfront Apartment with Ocean Views",
+  "location": "Mombasa",
+  "category": "sale",
+  "bedrooms": 2,
+  "bathrooms": 2,
+  "livingroom": true,
+  "images": [
+    "https://i.pinimg.com/originals/98/3f/18/983f18d363b0ddbbd9b999002c88766b.png",
+    "https://i.pinimg.com/originals/00/86/f5/0086f531a233f98cdf391659ec4efd72.jpg",
+    "https://i.pinimg.com/originals/67/37/2f/67372f92b437591e467b0a493cff3d6e.jpg",
+    "https://i.pinimg.com/736x/4e/94/50/4e9450aab563df0bb9b08dcd0f32fa6f.jpg"
+  ]
+},
+{
+    "id": "7",
+    "title": "TreeHouse with Pool",
+    "category": "home",
+    "location": "Nakuru",
+    "bedroom": "1",
+    "bathroom": "1 ",
+    "livingroom": "true",
+     "images": ["https://cdn.homedsgn.com/wp-content/uploads/2012/12/treehouse-13.jpg",
+    "https://cdn.homedsgn.com/wp-content/uploads/2012/12/treehouse-08.jpg",
+    "https://i.pinimg.com/564x/8f/a9/91/8fa9912d1131252aa1bf8ab8b249f0d1.jpg",
+    "https://i.pinimg.com/564x/ff/fb/6f/fffb6fd97d2a7e9bb30c98460cefa09a.jpg"
+    ],
+     "status": "Avaialble"
+  },
+   {
+    "id": "8",
+    "title": "Superb Apartment next to CBD",
+    "category": "rent",
+    "location": "Upperhill",
+    "bedroom": " ",
+    "bathroom": " ",
+    "livingroom": "true ",
+     "images": ["https://i.pinimg.com/564x/4d/88/f0/4d88f0b639a0f4cb43737f1ad510f370.jpg",
+     "https://i.pinimg.com/564x/28/ae/98/28ae98943423fc7b62344b10f9036099.jpg",
+     "https://i.pinimg.com/564x/9f/c6/50/9fc650be1d9720b15f13bf6eb520e2e5.jpg",
+     "https://i.pinimg.com/564x/f3/27/0f/f3270f0359273aa07bff6c18894162e3.jpg " 
+    ],
+     "status":"Available"
+  },
+      {
+    "id": "9",
+    "title": "Condo with Heated Pool",
+    "category": "home",
+    "location": "Malindi",
+    "bedroom": "5 ",
+    "bathroom": "3 ",
+    "livingroom": "true",
+     "images": ["https://i.pinimg.com/564x/a3/f0/1b/a3f01bee56970ce02fb16b9830138495.jpg",
+    "https://i.pinimg.com/564x/82/9e/02/829e021ee99b8b62e46552ad33af3061.jpg",
+    "https://i.pinimg.com/564x/90/70/f1/9070f168805dd028176ade8e3db30be0.jpg",
+    "https://i.pinimg.com/564x/ce/0c/b6/ce0cb6b596c50dd340efaca68e16fa56.jpg"
+    ],
+     "status":"Sold"
+  },
+  {
+    "id": "10",
+    "title": "Truck House with Park Views",
+    "category": "rent",
+    "location": "Kajiado",
+    "bedroom": " 1",
+    "bathroom": " 1",
+    "livingroom": "true",
+     "images": ["https://i.pinimg.com/564x/76/d7/26/76d7264f81991796ce1719fd70c13041.jpg",
+    "https://i.pinimg.com/564x/86/30/b5/8630b5c9d35ad13dd109645493189fc9.jpg",
+    "https://i.pinimg.com/564x/8a/ff/0c/8aff0cb24cf654d18baeacb929bc1931.jpg",
+    "https://i.pinimg.com/564x/d6/5c/82/d65c829f3b95214f8f187f63a359598a.jpg"
+    ],
+    "status": "Available"
+  },
+   {
+    "id": "11",
+    "title": "Serene Farmhouse with Lakeside view",
+    "category": "home",
+    "location": "Kisumu",
+    "bedroom": "1 ",
+    "bathroom": " 1",
+    "livingroom": "true",
+     "images": ["https://i.pinimg.com/736x/de/d7/a4/ded7a4505c8ec1f4deec3421fc434751.jpg",
+    "https://images.squarespace-cdn.com/content/v1/58eb76dd59cc687c7414042e/1500920593268-FNVHF7KEKWBXK3P4GVJ6/lakefront_architecture?format=500w",
+    "https://i.pinimg.com/564x/0a/2e/6f/0a2e6f2a0e74efec6ea0743a36369ed3.jpg",
+    "https://images.squarespace-cdn.com/content/v1/58eb76dd59cc687c7414042e/1500920634090-8YWZ1GIQ6G2F1LFPWH9I/lakefront_living?format=500w"
+    ],
+     "status":"Sold"
+  },
+  {
+    "id": "12",
+    "title": "Beautiful Townhouse ",
+    "category": "rent",
+    "location": "Karen",
+    "bedroom": "3 ",
+    "bathroom": " 2",
+    "livingroom": "true",
+    "images": ["https://i.pinimg.com/564x/62/9a/12/629a12723f98b5354f91cc44b80b485b.jpg",
+  "https://i.pinimg.com/564x/c8/50/fd/c850fd4a6bb8fbd01ffda9a2b0d68466.jpg",
+  "https://i.pinimg.com/564x/3d/f8/1e/3df81e7affddb428c220af3a61c21b9b.jpg",
+  "https://i.pinimg.com/564x/82/1f/ba/821fbad2c63c29c73d92b15cfdcca1e8.jpg"
+  ],
+    "status": "Available"
+  }
+]
+}
